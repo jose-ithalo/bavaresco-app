@@ -1,4 +1,4 @@
-Abrir pasta node_modules/react-scripts/config/webpackDevServer.config.js
+=== Abrir pasta node_modules/react-scripts/config/webpackDevServer.config.js
 
 Subtituir o código abaixo:
 
